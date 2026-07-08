@@ -1,0 +1,269 @@
+
+[
+    {
+        "codigo": "PRF-001",
+        "nombre": "Frutas",
+        "categoria": "Productos frescos",
+        "cantidad": 30,
+        "precio": 3.50
+    },
+    {
+        "codigo": "PRF-002",
+        "nombre": "Verduras",
+        "categoria": "Productos frescos",
+        "cantidad": 25,
+        "precio": 2.00
+    },
+    {
+        "codigo": "PRF-003",
+        "nombre": "Carne de res, pollo y pescado",
+        "categoria": "Productos frescos",
+        "cantidad": 15,
+        "precio": 9.50
+    },
+    {
+        "codigo": "PRF-004",
+        "nombre": "Huevos",
+        "categoria": "Productos frescos",
+        "cantidad": 40,
+        "precio": 4.00
+    },
+    {
+        "codigo": "PRF-005",
+        "nombre": "Quesos y embutidos",
+        "categoria": "Productos frescos",
+        "cantidad": 20,
+        "precio": 6.50
+    },
+    {
+        "codigo": "BEB-001",
+        "nombre": "Agua",
+        "categoria": "Bebidas",
+        "cantidad": 50,
+        "precio": 0.75
+    },
+    {
+        "codigo": "BEB-002",
+        "nombre": "Jugos",
+        "categoria": "Bebidas",
+        "cantidad": 30,
+        "precio": 1.50
+    },
+    {
+        "codigo": "BEB-003",
+        "nombre": "Refrescos o gaseosas",
+        "categoria": "Bebidas",
+        "cantidad": 35,
+        "precio": 1.25
+    },
+    {
+        "codigo": "BEB-004",
+        "nombre": "Café",
+        "categoria": "Bebidas",
+        "cantidad": 25,
+        "precio": 5.00
+    },
+    {
+        "codigo": "BEB-005",
+        "nombre": "Té",
+        "categoria": "Bebidas",
+        "cantidad": 20,
+        "precio": 2.50
+    },
+    {
+        "codigo": "BEB-006",
+        "nombre": "Leche",
+        "categoria": "Bebidas",
+        "cantidad": 30,
+        "precio": 1.75
+    },
+    {
+        "codigo": "BEB-007",
+        "nombre": "Bebidas energéticas",
+        "categoria": "Bebidas",
+        "cantidad": 18,
+        "precio": 2.75
+    },
+    {
+        "codigo": "CUI-001",
+        "nombre": "Shampoo",
+        "categoria": "Cuidado personal",
+        "cantidad": 15,
+        "precio": 4.50
+    },
+    {
+        "codigo": "CUI-002",
+        "nombre": "Jabón",
+        "categoria": "Cuidado personal",
+        "cantidad": 25,
+        "precio": 1.25
+    },
+    {
+        "codigo": "CUI-003",
+        "nombre": "Pasta dental",
+        "categoria": "Cuidado personal",
+        "cantidad": 20,
+        "precio": 2.75
+    },
+    {
+        "codigo": "CUI-004",
+        "nombre": "Cepillo de dientes",
+        "categoria": "Cuidado personal",
+        "cantidad": 20,
+        "precio": 2.25
+    },
+    {
+        "codigo": "CUI-005",
+        "nombre": "Desodorante",
+        "categoria": "Cuidado personal",
+        "cantidad": 18,
+        "precio": 3.50
+    },
+    {
+        "codigo": "CUI-006",
+        "nombre": "Papel higiénico",
+        "categoria": "Cuidado personal",
+        "cantidad": 40,
+        "precio": 5.50
+    },
+    {
+        "codigo": "CUI-007",
+        "nombre": "Protector solar",
+        "categoria": "Cuidado personal",
+        "cantidad": 10,
+        "precio": 7.00
+    },
+    {
+        "codigo": "HOG-001",
+        "nombre": "Detergente",
+        "categoria": "Cuidado del hogar",
+        "cantidad": 15,
+        "precio": 5.50
+    },
+    {
+        "codigo": "HOG-002",
+        "nombre": "Suavizante de ropa",
+        "categoria": "Cuidado del hogar",
+        "cantidad": 12,
+        "precio": 5.00
+    },
+    {
+        "codigo": "HOG-003",
+        "nombre": "Cloro",
+        "categoria": "Cuidado del hogar",
+        "cantidad": 20,
+        "precio": 2.50
+    },
+    {
+        "codigo": "HOG-004",
+        "nombre": "Desinfectante",
+        "categoria": "Cuidado del hogar",
+        "cantidad": 15,
+        "precio": 3.50
+    },
+    {
+        "codigo": "HOG-005",
+        "nombre": "Bolsas de basura",
+        "categoria": "Cuidado del hogar",
+        "cantidad": 25,
+        "precio": 3.00
+    },
+    {
+        "codigo": "HOG-006",
+        "nombre": "Esponjas",
+        "categoria": "Cuidado del hogar",
+        "cantidad": 20,
+        "precio": 1.75
+    },
+    {
+        "codigo": "HOG-007",
+        "nombre": "Limpiadores multiusos",
+        "categoria": "Cuidado del hogar",
+        "cantidad": 10,
+        "precio": 4.50
+    },
+    {
+        "codigo": "BEBC-001",
+        "nombre": "Pañales",
+        "categoria": "Cuidado del bebé",
+        "cantidad": 15,
+        "precio": 13.00
+    },
+    {
+        "codigo": "BEBC-002",
+        "nombre": "Toallitas húmedas",
+        "categoria": "Cuidado del bebé",
+        "cantidad": 20,
+        "precio": 5.00
+    },
+    {
+        "codigo": "BEBC-003",
+        "nombre": "Fórmula infantil",
+        "categoria": "Cuidado del bebé",
+        "cantidad": 10,
+        "precio": 20.00
+    },
+    {
+        "codigo": "BEBC-004",
+        "nombre": "Talco",
+        "categoria": "Cuidado del bebé",
+        "cantidad": 12,
+        "precio": 3.50
+    },
+    {
+        "codigo": "BEBC-005",
+        "nombre": "Champú para bebé",
+        "categoria": "Cuidado del bebé",
+        "cantidad": 10,
+        "precio": 5.50
+    },
+    {
+        "codigo": "BEBC-006",
+        "nombre": "Biberones",
+        "categoria": "Cuidado del bebé",
+        "cantidad": 15,
+        "precio": 7.00
+    },
+    {
+        "codigo": "MAS-001",
+        "nombre": "Alimento para perros y gatos",
+        "categoria": "Cuidado de mascotas",
+        "cantidad": 15,
+        "precio": 9.00
+    },
+    {
+        "codigo": "MAS-002",
+        "nombre": "Premios o galletas para mascotas",
+        "categoria": "Cuidado de mascotas",
+        "cantidad": 20,
+        "precio": 3.50
+    },
+    {
+        "codigo": "MAS-003",
+        "nombre": "Arena para gatos",
+        "categoria": "Cuidado de mascotas",
+        "cantidad": 10,
+        "precio": 8.00
+    },
+    {
+        "codigo": "MAS-004",
+        "nombre": "Shampoo para mascotas",
+        "categoria": "Cuidado de mascotas",
+        "cantidad": 10,
+        "precio": 5.50
+    },
+    {
+        "codigo": "MAS-005",
+        "nombre": "Juguetes",
+        "categoria": "Cuidado de mascotas",
+        "cantidad": 12,
+        "precio": 4.50
+    },
+    {
+        "codigo": "MAS-006",
+        "nombre": "Correas",
+        "categoria": "Cuidado de mascotas",
+        "cantidad": 10,
+        "precio": 7.00
+    }
+]
