@@ -1,0 +1,23 @@
+[
+    {
+        "codigo": "prf-001",
+        "nombre": "manzana",
+        "categoria": "Alimentos",
+        "cantidad": 9,
+        "precio": 2.0
+    },
+    {
+        "codigo": "prf-002",
+        "nombre": "manzana",
+        "categoria": "Alimentos",
+        "cantidad": 13,
+        "precio": 3.0
+    },
+    {
+        "codigo": "0003",
+        "nombre": "ladrillo",
+        "categoria": "Otros",
+        "cantidad": 56,
+        "precio": 23.0
+    }
+]
