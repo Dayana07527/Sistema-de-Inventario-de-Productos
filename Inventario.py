@@ -2,6 +2,10 @@
 import tkinter as tk
 from tkinter import ttk
 
+def crear_pantalla_inventario(ventana):
+    frame = tk.Frame(ventana)
+    return frame
+
 
 #IMPORTANDO A JSON
 import json
